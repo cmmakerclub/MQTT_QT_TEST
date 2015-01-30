@@ -1,3 +1,3 @@
 # MQTT_QT_TEST
 
-just a tiny poc to use QT and QMQTT Client
+just a tiny poc project to use QT and QMQTT Client
